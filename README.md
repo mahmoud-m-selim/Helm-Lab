@@ -1,10 +1,10 @@
 # Helm-Lab
 Deploying a python app using Helm.
 
-![alt text](https://github.com/mahmoud-m-selim/Helm-Lab/blob/main/lab_pods.PNG?raw=true)
+![My Image](images/lab_pods.PNG)
 
-![alt text](https://github.com/mahmoud-m-selim/Helm-Lab/blob/main/app_running.PNG?raw=true)
+![My Image](images/app_running.jpeg)
 
-![alt text](https://github.com/mahmoud-m-selim/Helm-Lab/blob/main/lab_part2_jenkins.PNG?raw=true)
+![My Image](images/lab_part2_jenkins.PNG)
 
-![alt text](https://github.com/mahmoud-m-selim/Helm-Lab/blob/main/lab-part2-jenkins-login.PNG?raw=true)
+![My Image](images/lab-part2-jenkins-login.PNG)
