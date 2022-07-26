@@ -3,7 +3,7 @@ Deploying a python app using Helm.
 
 ![My Image](images/lab_pods.PNG)
 
-![My Image](images/app_running.PNG)
+![My Image](images/app_running.jpeg)
 
 ![My Image](images/lab_part2_jenkins.PNG)
 
